@@ -33,7 +33,7 @@ pipeline AirportDataPipeline {
     // Block to load the parsed table into an SQLite database
     block AirportDatabaseLoader oftype SQLiteLoader {
         table: "airports";  // SQLite table name
-        file: "exercises/airports.sqlite";  // SQLite database file
+        file: "./airports.sqlite";  // SQLite database file
     }
 
     // Sequence of block execution for the pipeline
