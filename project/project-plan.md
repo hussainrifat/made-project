@@ -24,19 +24,18 @@ This data source provides daily updates on COVID-19 cases and mortality rates by
 
 ### Datasource 2: World Bank Socioeconomic Data for South America
 
-- Metadata URL: https://data.worldbank.org/
-- Data URL: https://data.worldbank.org/indicator
+- Metadata URL: #
+- Data URL: #
 - Data Type: CSV
 
 This dataset includes information on income levels, healthcare spending, and education rates for South American countries, enabling correlation analysis with COVID-19 outcomes.
 
 ## Work Packages
 
-1. Collect and clean COVID-19 and socioeconomic data, handling missing values and inconsistencies [#1][i1]
-2. Merge datasets based on country identifiers to create a unified analysis set [#2][i2]
-3. Conduct exploratory data analysis (EDA) to observe basic patterns in COVID-19 outcomes and socioeconomic factors [#3][i3]
-4. Perform correlation and regression analysis to examine relationships between COVID-19 outcomes and socioeconomic indicators [#4][i4]
-5. Analyze time-series trends to assess the impact of socioeconomic factors on COVID-19 spread over time [#5][i5]
-6. Summarize findings and report on socioeconomic impacts, offering public health recommendations [#6][i6]
-7. Prepare visualizations and final presentation, highlighting key insights and correlations [#7][i7]
-
+1. Collect and clean COVID-19 and socioeconomic data, handling missing values and inconsistencies.
+2. Merge datasets based on country identifiers to create a unified analysis set.
+3. Conduct exploratory data analysis (EDA) to observe basic patterns in COVID-19 outcomes and socioeconomic.factors.
+4. Perform correlation and regression analysis to examine relationships between COVID-19 outcomes and socioeconomic indicators.
+5. Analyze time-series trends to assess the impact of socioeconomic factors on COVID-19 spread over time.
+6. Summarize findings and report on socioeconomic impacts, offering public health recommendations.
+7. Prepare visualizations and final presentation, highlighting key insights and correlations.
