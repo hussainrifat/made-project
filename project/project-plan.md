@@ -42,17 +42,10 @@ This dataset includes information on income levels, healthcare spending, and edu
 
 
 
-
 [i1]: https://github.com/hussainrifat/made-project/issues/1
-
 [i2]: https://github.com/hussainrifat/made-project/issues/2
-
 [i3]: https://github.com/hussainrifat/made-project/issues/3
-
-[i4]: https://github.com/QNabila/made-project-git/issues/4
-
-[i5]: https://github.com/QNabila/made-project-git/issues/5
-
-[i6]: https://github.com/QNabila/made-project-git/issues/6
-
-[i7]: https://github.com/QNabila/made-project-git/issues/7
+[i4]: https://github.com/hussainrifat/made-project/issues/4
+[i5]: https://github.com/hussainrifat/made-project/issues/5
+[i6]: https://github.com/hussainrifat/made-project/issues/6
+[i7]: https://github.com/hussainrifat/made-project/issues/7
