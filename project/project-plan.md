@@ -16,8 +16,8 @@ The COVID-19 pandemic impacted different regions with varying severity, influenc
 
 ### Datasource 1: COVID-19 Data Repository by Johns Hopkins University
 
-- Metadata URL: https://github.com/CSSEGISandData/COVID-19
-- Data URL: https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+- Metadata URL: #
+- Data URL: #
 - Data Type: CSV
 
 This data source provides daily updates on COVID-19 cases and mortality rates by country, allowing for time-series analysis of COVID-19’s progression across South America.
