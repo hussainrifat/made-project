@@ -32,10 +32,27 @@ This dataset includes information on income levels, healthcare spending, and edu
 
 ## Work Packages
 
-1. Collect and clean COVID-19 and socioeconomic data, handling missing values and inconsistencies.
-2. Merge datasets based on country identifiers to create a unified analysis set.
-3. Conduct exploratory data analysis (EDA) to observe basic patterns in COVID-19 outcomes and socioeconomic.factors.
-4. Perform correlation and regression analysis to examine relationships between COVID-19 outcomes and socioeconomic indicators.
-5. Analyze time-series trends to assess the impact of socioeconomic factors on COVID-19 spread over time.
-6. Summarize findings and report on socioeconomic impacts, offering public health recommendations.
-7. Prepare visualizations and final presentation, highlighting key insights and correlations.
+1. Data Collection and Cleaning [#1][i1]
+2. Data Merging [#2][i2]
+3. Exploratory Data Analysis (EDA) [#3][i3]
+4. Correlation and Regression Analysis [#4][i4]
+5. Time-Series Trend Analysis [#5][i5]
+6. Findings Summary and Recommendations [#6][i6]
+5. Visualization and Presentation Preparation [#7][i7]
+
+
+
+
+[i1]: https://github.com/hussainrifat/made-project/issues/1
+
+[i2]: https://github.com/hussainrifat/made-project/issues/2
+
+[i3]: https://github.com/hussainrifat/made-project/issues/3
+
+[i4]: https://github.com/QNabila/made-project-git/issues/4
+
+[i5]: https://github.com/QNabila/made-project-git/issues/5
+
+[i6]: https://github.com/QNabila/made-project-git/issues/6
+
+[i7]: https://github.com/QNabila/made-project-git/issues/7
